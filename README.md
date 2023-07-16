@@ -17,6 +17,6 @@
 
 ## What improvement is needed?
 - I think in the next step we can implement cucumber so we can use it to generate report, and give BDD to other stakeholder.
-- Add multi-browser compatibility
-- setup the testing environment using docker so it can run across all browser
-- 
+- Implement multi-browser testing.
+- setup the testing environment using virtual machine and docker so it can run across all OS. By doing so we can setup the selenoid so it can be remotely access anywhere
+- setup the jenkins job so it can run anytime we want
