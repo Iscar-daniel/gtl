@@ -2,8 +2,8 @@
 - install java 17 (should be able to run on java 11 also)
 - make sure google chrome is installed
 - install the dependencies using maven
-- run the test
-- junit 4
+- run the test from CheckoutTest.java
+
 
 
 
